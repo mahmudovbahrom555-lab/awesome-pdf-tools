@@ -16,6 +16,8 @@ Web-based PDF tools fall into two categories: those that **upload your files to 
 
 *Tools that process PDFs entirely in your browser. Files never leave your device.*
 
+- [PDFree.io](https://pdfree.io) — Free browser-based PDF tools that never upload your files: merge, split, compress, PDF to Word/Excel/PowerPoint, OCR in 23 languages, fill, sign, redact. No account.
+
 - [PDF Toolbox](https://pdftoolbox.tech) — Free browser-based PDF tools: compress, merge, split, convert, protect, and unlock PDFs. All processing happens client-side using WebAssembly and pdf-lib.js. No uploads, no registration, no limits.
 - [SimplePDF](https://simplepdf.eu) — Online PDF editor that works in the browser. Fill forms, add text, sign documents. EU-hosted but files are processed client-side.
 - [PDFEscape](https://www.pdfescape.com) — Online PDF editor with form filling and annotation. Basic editing is client-side; some features require upload.
@@ -33,6 +35,8 @@ Web-based PDF tools fall into two categories: those that **upload your files to 
 ## Self-Hosted / Open Source
 
 *Run your own PDF processing server or integrate PDF manipulation into your app.*
+
+- [PDFree](https://github.com/mahmudovbahrom555-lab/pdfree33) — Open-source (AGPL-3.0) browser-based PDF toolkit; self-hostable as a Docker image, all processing client-side.
 
 - [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) — Self-hosted web PDF manipulation tool with 50+ operations. Docker deployment. ⭐ 60K+
 - [pdf-lib](https://github.com/Hopding/pdf-lib) — JavaScript library for creating and modifying PDFs in any JS environment. Used by PDF Toolbox for client-side processing. ⭐ 7K+
